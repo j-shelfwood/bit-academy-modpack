@@ -1,2 +1,0 @@
-put( "airtightSeal.slotPoints.base", 1.0D );
-put( "omniProbe.slotPoints.base", 1.0D );
